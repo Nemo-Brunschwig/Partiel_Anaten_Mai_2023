@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Partiel_MAI2023_CSharp_CASTLEVANIA_BRUSCHWIG_Nemo/1.0.0": {
+        "runtime": {
+          "Partiel_MAI2023_CSharp_CASTLEVANIA_BRUSCHWIG_Nemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Partiel_MAI2023_CSharp_CASTLEVANIA_BRUSCHWIG_Nemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
